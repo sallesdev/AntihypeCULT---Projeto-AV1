@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
  
      if (isValid) {
        alert("Cadastro realizado com sucesso! É permitido apenas uma compra por item.");
-       window.location.href = '/src/index.html';
+       window.location.href = '/index.html';
      } else {
        alert("Preencha todos os campos obrigatórios!");
      }
