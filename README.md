@@ -43,7 +43,7 @@ Informações de direitos autorais: " 2024 ANTIHYPECULT. Todos os direitos reser
 
 Autores:
 - 01728508 - Hugo Salles de Oliveira
-- Gabriel
+- 01710976 - Gabriel de Oliveira Santos
 
 
 Observações:
@@ -51,6 +51,3 @@ O site não possui interação com banco de dados ou API, apenas estático.
 Este projeto se concentra em demonstrar habilidades básicas de HTML e CSS, com ênfase em layout, estilização e design responsivo utilizando o framework Tailwind CSS.
 O site não é destinado a uso em produção e não possui funcionalidade interativa.
 O projeto serve como avaliação  para a disciplina de Front End Frameworks e não é uma plataforma de e-commerce real.
-
-Licença:
-Este projeto é licenciado sob a Licença MIT
