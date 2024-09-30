@@ -32,9 +32,9 @@ Catálogo de Produtos:
 
 - Layout em grade com três colunas
 - Cada item de produto apresenta:
- Imagem do Produto: Imagens WebP para cada produto
- Nome do Produto: Link com estilo de fonte fino
- Preço do Produto: Com linha de eliminação indicando que o produto está esgotado
+- Imagem do Produto: Imagens WebP para cada produto
+- Nome do Produto: Link com estilo de fonte fino
+- Preço do Produto: Com linha de eliminação indicando que o produto está esgotado
 
 
 Rodapé:
