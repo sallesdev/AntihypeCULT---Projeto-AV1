@@ -22,6 +22,8 @@ document.addEventListener("DOMContentLoaded", function() {
   h1.addEventListener('click', () => {
     if (carrinho.length > 0) {
       window.location.href = `/produtos/${carrinho[carrinho.length - 1]}.html`;
+    } else {
+      alert("Carrinho vazio! Não há itens para visualizar.");
     }
   });
 });
