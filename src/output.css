@@ -881,6 +881,17 @@ video {
   transform: translateY(-6px);
 }
 
+.products-grid {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 1s, transform 1s;
+}
+
+.products-grid.animate {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 @media only screen and (max-width: 768px) {
   .search-input {
     padding-left: 0;
